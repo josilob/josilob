@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Bojan</h1>  
+<h1 align="center">Hi 👋 I'm Bojan</h1>  
   
 - 🌱 I’m currently reinforcing my web development skills skills with: **React, Express, Rails, Tailwind, VanillaJS**  
   
