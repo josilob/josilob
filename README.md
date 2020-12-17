@@ -3,7 +3,7 @@
   
 - 🌱 I’m currently reinforcing my web development skills skills with: **React, Express, Rails, Tailwind, VanillaJS**  
   
-- My resume page: [https://josilob.github.io/portfolio-page/](https://josilob.github.io/portfolio-page/)  
+- Portfolio: [https://josilob.github.io/portfolio-page/](https://josilob.github.io/portfolio-page/)  
   
 - 📫 How to reach me **bjosilo@gmail.com**  
   
