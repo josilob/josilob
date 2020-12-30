@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 I'm Bojan</h1>  
  - I'm an inquisitive civil engineer and full stack web developer coming from the Lake Placid area. At the crossroads between creativity and logic, I am fueled by inspirational designs, server-side architecture and integration of everything in one functional bond.
-- 🌱 I’m currently reinforcing my web development skills with: **React, Express, Rails, Tailwind and VanillaJS**  
+- 🌱 I’m currently reinforcing my web development skills with: **React, Express, Rails, Tailwind and VanillaJS  
   
 - Portfolio: [https://josilob.github.io/portfolio-page/](https://josilob.github.io/portfolio-page/)  
   
