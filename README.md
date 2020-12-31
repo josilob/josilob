@@ -10,9 +10,7 @@
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=josilob&theme=default" alt="josilob" /></p>
   
-- Portfolio: [https://josilob.github.io/portfolio-page/](https://josilob.github.io/portfolio-page/)  
-  
-- 📫 How to reach me **bjosilo@gmail.com**  
+
   
 <h3 align="center">Connect with me:</h3>  
 <p align="center">  
@@ -20,4 +18,7 @@
 <a href="https://medium.com/@bjosilo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bjosilo" height="30" width="40" /></a>  
 </p>  
   
+- Portfolio: [https://josilob.github.io/portfolio-page/](https://josilob.github.io/portfolio-page/)  
+  
+- Reach me @ **bjosilo@gmail.com**  
 
