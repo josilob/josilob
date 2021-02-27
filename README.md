@@ -16,7 +16,6 @@
 <a href="https://medium.com/@bjosilo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bjosilo" height="30" width="40" /></a>  
 </p>  
   
-- Portfolio: [https://josilob.github.io/portfolio-page/](https://josilob.github.io/portfolio-page/)  
   
 - Reach me @ **bjosilo@gmail.com**  
 
