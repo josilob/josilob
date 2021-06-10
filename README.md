@@ -1,8 +1,7 @@
 
 <h1 align="center">Welcome to my GitHub profile</h1>  
- Fueled by unconventional solutions, I am a Full Stack Web Developer who relentlessly pursues creating designs focused on capturing user’s attention and thoughtful navigation. Relentless spirit and curious mind set to learn, advance and find a full time job opportunity! 
- 
- Specializing in JavaScript development but wouldn't be opposed to learning and braodening the skillset.
+Full Stack Web Developer fueled by unconventional solutions, relentlessly pursuing designs focused on capturing user’s attention and thoughtful navigation. Relentless spirit and curious mind set to learn, advance and find a full time job opportunity! 
+ Specializing React and Javascript development.
   <br>
   
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josilob&show_icons=true&locale=en" alt="josilob" /></p>
