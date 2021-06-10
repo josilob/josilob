@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to my GitHub profile</h1>  
- - I'm an inquisitive full stack web developer coming from the Lake Placid area. At the crossroads between creativity and logic, I am fueled by inspirational designs, server-side architecture and integration of everything in one functional bond.  
-- Currently I’m working on my web development skills utilizing: React, Express, Rails, Tailwind, CSS/SASS and VanillaJS, looking to improve my existing projects and  finish 100DaysOfCode Challenge!
+ - Fueled by unconventional solutions, I am a Full Stack Web Developer who relentlessly pursues creating designs focused on capturing user’s attention and thoughtful navigation. Relentless spirit and curious mind set to learn, advance and find a full time job opportunity!
+- Specializing in JavaScript development but wouldn't be opposed to learning and braodening the skillset.
   <br>
   
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josilob&show_icons=true&locale=en" alt="josilob" /></p>
