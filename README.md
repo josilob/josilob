@@ -1,6 +1,6 @@
 
 <h1 align="center">Welcome to my GitHub profile</h1>  
-<!-- <p align="center">Full Stack Web Developer fueled by unconventional solutions, relentlessly pursuing designs focused on capturing user’s attention and thoughtful navigation. Relentless spirit and curious mind set to learn, advance and find a full time job opportunity. <br/>  -->
+<p align="center">Full Stack Web Developer fueled by unconventional solutions, relentlessly pursuing designs focused on capturing user’s attention and thoughtful navigation. Relentless spirit and curious mind set to advance and find a full time job opportunity. <br/> 
 <p align='center'>Specializing in React and Javascript development.</p>
   <br>
   
