@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to my GitHub profile</h1>  
+<h1 align="center">Bojan's GitHub profile</h1>  
 <p align="center">Hi 👋 , I'm Bojan. I am a civil engineer by degree and web developer by obsession.</br>
   Inquisitive and focused on learning in all aspects of life - personal and professional.</br> Adept at acquiring new skills and building interactive web pages! <br/> 
     
